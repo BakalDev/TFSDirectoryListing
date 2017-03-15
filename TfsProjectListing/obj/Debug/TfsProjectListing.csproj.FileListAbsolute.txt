@@ -1,0 +1,7 @@
+\\ldsfileproapp01\Home$\adambd\Visual Studio 2012\Projects\TfsProjectListing\TfsProjectListing\obj\Debug\TfsProjectListing.csprojResolveAssemblyReference.cache
+\\ldsfileproapp01\Home$\adambd\Visual Studio 2012\Projects\TfsProjectListing\TfsProjectListing\bin\Debug\TfsProjectListing.exe
+\\ldsfileproapp01\Home$\adambd\Visual Studio 2012\Projects\TfsProjectListing\TfsProjectListing\bin\Debug\TfsProjectListing.pdb
+\\ldsfileproapp01\Home$\adambd\Visual Studio 2012\Projects\TfsProjectListing\TfsProjectListing\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+\\ldsfileproapp01\Home$\adambd\Visual Studio 2012\Projects\TfsProjectListing\TfsProjectListing\bin\Debug\Microsoft.WITDataStore.dll
+\\ldsfileproapp01\Home$\adambd\Visual Studio 2012\Projects\TfsProjectListing\TfsProjectListing\obj\Debug\TfsProjectListing.exe
+\\ldsfileproapp01\Home$\adambd\Visual Studio 2012\Projects\TfsProjectListing\TfsProjectListing\obj\Debug\TfsProjectListing.pdb
